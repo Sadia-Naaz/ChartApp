@@ -45,3 +45,4 @@ Copy the code from Cube.js Playground (Code tab).
 Ensure the Cube.js API client (cubejsApi.js) is configured correctly.
 Import the chart component into your main app and render it.
 Run your app (npm start).
+You can access the ChartApp at http://localhost:3000.
